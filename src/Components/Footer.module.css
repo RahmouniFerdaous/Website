@@ -1,0 +1,50 @@
+.a {
+  width: 100%;
+  background: linear-gradient(
+      to bottom,
+      rgba(9, 25, 74, 0.836),
+      rgba(9, 25, 74, 0.829)
+    ),
+    url("https://images.unsplash.com/photo-1486325212027-8081e485255e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto 1000px;
+  padding: 3% 1% 2% 1%;
+}
+.square {
+  list-style-type: square;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+.square li {
+  font-size: 0.8rem;
+  padding: 10px;
+  color: rgba(228, 230, 234);
+  font-weight: italic;
+}
+ol {
+  list-style-type: none;
+  list-style-position: inside;
+  margin: 0;
+  padding: 0;
+}
+ol li {
+  font-size: 0.8rem;
+  color: rgb(228, 230, 234);
+  font-weight: italic;
+}
+.a center {
+  font-size: 0.9rem;
+  color: white;
+}
+.a p {
+  color: white;
+  font-weight: bold;
+}
+.logo {
+  font-size: 9rem;
+  color: rgb(176, 163, 117);
+  font-weight: bold;
+}

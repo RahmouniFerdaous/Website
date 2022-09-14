@@ -1,0 +1,161 @@
+.body {
+  width: 100%;
+  margin: 0;
+}
+.investors {
+  background-color: rgb(244, 244, 244);
+  padding: 2% 1% 2% 1%;
+}
+.investors h4 {
+  font-size: 2.5rem;
+  color: rgb(176, 163, 117);
+  font-weight: italic;
+}
+.investors span {
+  font-size: 2rem;
+  color: rgb(176, 163, 117);
+  font-weight: italic;
+}
+.investors p {
+  word-spacing: 0.1rem;
+  letter-spacing: 0.1rem;
+  text-align: justify;
+}
+.arrow {
+  font-size: 5rem;
+  color: rgb(176, 163, 117);
+}
+.imgDes {
+  text-align: right;
+  padding: 2% 1% 2% 1%;
+}
+.imgDes img {
+  border: 2px solid #b2a475;
+}
+.imgDes b {
+  outline: solid #b2a475;
+}
+.imgDes span {
+  position: relative;
+  background: white;
+  color: rgb(176, 163, 117);
+  box-shadow: 0 0 0 1px white;
+  padding-left:20px;
+}
+.title {
+  font-size: 2rem;
+  color: rgb(6, 5, 73);
+  font-weight: bold;
+}
+.subtitle {
+  font-size: 1rem;
+  color: rgb(164, 164, 172);
+  font-weight: italic;
+  padding-bottom: 12px;
+}
+.text {
+  font-size: 0.8rem;
+  color: rgb(6, 5, 73);
+  text-align: left;
+  font-weight: bold;
+}
+.txt {
+  font-size: 0.8rem;
+  color: rgb(161, 161, 165);
+  text-align: left;
+  font-weight: bold;
+}
+.specialText {
+  letter-spacing: 0.1rem;
+  color: rgb(6, 5, 73);
+}
+.specialPara {
+  font-size: 0.8rem;
+  color: rgb(161, 161, 165);
+  text-align: justify;
+  font-weight: bold;
+}
+.group {
+  background-color: rgb(244, 244, 244);
+  margin: 2rem 0.5rem 2rem 0.5rem;
+}
+.icon {
+  font-size: 5rem;
+  color: rgb(6, 5, 73);
+}
+
+.texticon {
+  font-size: 0.8rem;
+  color: rgb(163, 163, 163);
+  text-align: center;
+  font-weight: bold;
+}
+.ParaR {
+  font-size: 0.8rem;
+  color: rgb(161, 161, 165);
+  text-align: right;
+  font-weight: bold;
+}
+.ParaL {
+  font-size: 0.8rem;
+  color: rgb(161, 161, 165);
+  text-align: left;
+  font-weight: bold;
+}
+.vertical {
+  border-left: 2px solid rgb(176, 163, 117);
+  display: inline-block;
+  align-items: center;
+  height: 150px;
+  margin: 0 70px;
+}
+.button {
+  background-color: transparent;
+  color: rgb(176, 163, 117);
+  border-color: rgb(176, 163, 117);
+  padding: 14px 28px;
+  font-size: 14px;
+  text-transform: none;
+  margin: 20px 0 20px 0;
+}
+.numbers {
+  background-color: rgb(207, 197, 162);
+  padding: 5% 1% 5% 1%;
+}
+.numbertext {
+  font-size: 0.8rem;
+  color: rgb(162, 147, 98);
+  text-align: left;
+  font-weight: bold;
+}
+.num {
+  font-size: 3.5rem;
+  color: rgb(107, 105, 102);
+  font-weight: italic;
+}
+.n {
+  font-size: 1.5rem;
+  letter-spacing: 0.1rem;
+  color: rgb(162, 147, 98);
+}
+.box{
+  border-style: solid;
+  color: rgb(162, 147, 98);
+  padding-bottom: 15%;
+  padding-top:5%;
+}
+.box hr{
+  border-top: 3px solid #b2a475;
+}
+.box h5 {
+  color: rgb(162, 147, 98);
+  text-align: center;
+  font-weight: bold; 
+}
+.box span {
+  color: rgb(107, 105, 102);
+  font-size: 1rem;
+  margin:  45px 45px 70px 45px;
+}
+
+

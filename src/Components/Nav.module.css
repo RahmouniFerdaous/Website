@@ -1,0 +1,79 @@
+.bg {
+  background: linear-gradient(
+      to bottom,
+      rgba(9, 25, 74, 0.836),
+      rgba(9, 25, 74, 0.829)
+    ),
+    url("../../public/meeting.jpg");
+  background-position: center;
+  background-origin: content-box;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto 700px;
+  padding: 1% 1% 5% 1%;
+}
+.header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1% 1% 1% 1%;
+}
+.bg hr {
+  border-top: 5px solid #f7be05;
+}
+.bg h1 {
+  color: White;
+  margin: 10% 10%;
+}
+.bg h5 {
+  position: right;
+  color: rgb(176, 163, 117);
+  text-align: right;
+}
+.box {
+  border-style: solid;
+  color: rgb(162, 147, 98);
+  padding-top: 35px;
+  padding-bottom: 25px;
+  padding-left: 35px;
+  padding-right: 35px;
+}
+.logo {
+  font-size: 1.5rem;
+  color: rgb(176, 163, 117);
+  font-weight: bold;
+}
+.logo span {
+  color: white;
+}
+.header ul {
+  list-style: none;
+  margin: 0;
+  padding: 2rem;
+  display: flex;
+  align-items: baseline;
+}
+.header li {
+  margin-left: 3rem;
+  font-size: 1rem;
+  font-weight: italic;
+  color: rgb(176, 163, 117);
+}
+.header a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: rgb(176, 163, 117);
+}
+.header a:hover,
+.header a:active,
+.header a.active {
+  color: white;
+}
+.badge {
+  background-color: rgb(176, 163, 117);
+  color: white;
+  border-radius: 12px;
+  padding: 0 0.5rem 0.2rem;
+  margin-left: 0.5rem;
+}
